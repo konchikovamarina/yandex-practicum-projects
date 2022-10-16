@@ -1,7 +1,7 @@
 # yandex-practicum-projects
 проекты выполненные мною за время обучения на курсе аналитик данных
 ##  Проект 1
-[без title](http://example.com/link)
+<a href="http://example.com/" target="_blank">Проект 1</a>
 ##  Проект 2
 
 ##  Проект 3
