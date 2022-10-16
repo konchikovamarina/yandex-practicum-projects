@@ -21,19 +21,16 @@
 ##  Проект 7. Анализ убытков приложения ProcrastinatePRO+
 <a href="https://github.com/konchikovamarina/yandex-practicum-projects/tree/main/Проект%207/" target="_blank">Проект 7</a>
 
-##  Проект 8. Проверка гипотез по увеличению выручки в интернет-магазине —
-оценить результаты A/B теста
+##  Проект 8. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста
 <a href="https://github.com/konchikovamarina/yandex-practicum-projects/tree/main/Проект%208/" target="_blank">Проект 8</a>
 
-##  Проект 9. Исследования рынка общепита в Москве для принятия решения об
-открытии нового заведения
+##  Проект 9. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
 <a href="https://github.com/konchikovamarina/yandex-practicum-projects/tree/main/Проект%209/" target="_blank">Проект 9</a>
 
 ##  Проект 10. Анализ пользовательского поведения в мобильном приложении
 <a href="https://github.com/konchikovamarina/yandex-practicum-projects/tree/main/Проект%2010/" target="_blank">Проект 10</a>
 
-##  Проект 11. Создание дашборда по пользовательским событиям для агрегатора
-новостей
+##  Проект 11. Создание дашборда по пользовательским событиям для агрегатора новостей
 <a href="https://github.com/konchikovamarina/yandex-practicum-projects/tree/main/Проект%2011/" target="_blank">Проект 11</a>
 
 ##  Проект 12. Прогнозирование вероятности оттока пользователей для фитнес-центров
