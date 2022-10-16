@@ -2,7 +2,7 @@
 проекты выполненные мною за время обучения на курсе аналитик данных
 ##  Проект 1
 
-<a href="http://example.com](https://github.com/konchikovamarina/yandex-practicum-projects/tree/main/Проект%201/" target="_blank">Проект 1</a>
+<a href="https://github.com/konchikovamarina/yandex-practicum-projects/tree/main/Проект%201/" target="_blank">Проект 1</a>
 
 ##  Проект 2
 
